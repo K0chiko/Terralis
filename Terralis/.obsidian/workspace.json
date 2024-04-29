@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "e73cedbdfb564298",
+    "type": "split",
+    "children": [
+      {
+        "id": "4acfe85724135ab3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "365955872626e16f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Персонажи Мастера/Златоверх/Сиена Огненная Рука.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eb5f323b789e7ade",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc4b61f5959a71c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80e6acde7a3b0189",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6eb83066e68f1124",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "сиенн",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e624cadb848f8dd6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "c26beb0e03539a07",
+    "type": "split",
+    "children": [
+      {
+        "id": "e13943d64d0aeacb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7647b1e7fc176d0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Персонажи Мастера/Златоверх/Сиена Огненная Рука.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "c3f52341a88e55e5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Персонажи Мастера/Златоверх/Сиена Огненная Рука.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "76477a07aa1fa5cd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c5bfa6d4656f3780",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Персонажи Мастера/Златоверх/Сиена Огненная Рука.md"
+              }
+            }
+          },
+          {
+            "id": "cbd8fbd5b55318d8",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "4fff27c7a6cef0f2",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 425.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "juggl:Juggl global graph": false
+    }
+  },
+  "active": "c5bfa6d4656f3780",
+  "lastOpenFiles": [
+    "Хронология игры/1. Куда, черт возьми, девались все грибы.md",
+    "Персонажи игроков/0_Суббота/Тангент.md",
+    "Тангент.jpg",
+    "0_всякое/Тангент.jpg",
+    "Персонажи игроков/0_Суббота/Лиз Голдхарт.md",
+    "Персонажи Мастера/Златоверх/Сиена Огненная Рука.md",
+    "Лиз.jpg",
+    "Персонажи игроков/0_Суббота/Викс Этерхарт.md",
+    "0_всякое/Лиз.jpg",
+    "0_всякое/Арно.jpg",
+    "0_всякое/Арн.jpg",
+    "0_всякое/Викс Этерхарт.png",
+    "0_всякое/file-2lYpHhGGGJvrqEyowlENOejd.webp",
+    "0_всякое/a37789ac293826a61635e28636f15ca8.jpg",
+    "Эксперимент 42.md",
+    "Таддеус Вольткаст.md",
+    "Персонажи игроков/0_Суббота/Арно Кайде Шейц.md",
+    "Мир игры/Места/Маго-Технический Университет г. Индустриарх.md",
+    "Мир игры/Организации и группы/Прометеус Индастриз.md",
+    "Мир игры/Расы/Гном.md",
+    "Персонажи игроков/0_Суббота/Mr. Tangent.md",
+    "Персонажи Мастера/Златоверх/Рекс Железный Кулак.md",
+    "Мир игры/Места/Златоверх/Академия Магии.md",
+    "Мир игры/Магия.md",
+    "Мир игры/Места/Златоверх/Златоверх.md",
+    "Мир игры/Места/Индустриарх.md",
+    "Мир игры/Магия и алхимия",
+    "Персонажи игроков/0_Суббота/0_Суббота.md",
+    "Мир игры",
+    "Хронология.md",
+    "0_всякое/Карточки.canvas",
+    "Мир игры/Места/Златоверх/Арена.md",
+    "Мир игры/Места/Златоверх/Туманный Порт.md",
+    "Мир игры/Организации и группы/Культ Золотого Куба/Рыцари Куба.md",
+    "Персонажи Мастера/Златоверх/Парень в маске.md",
+    "Мир игры/Расы/Орк.md",
+    "![[Сиенна.md",
+    "0_всякое/Сиенна Огненная Рука.jpg",
+    "0_всякое",
+    "Новая папка",
+    "[ДАННЫЕ УДАЛЕНЫ]/Персонажи",
+    "[ДАННЫЕ УДАЛЕНЫ]",
+    "Мир игры/Артефакты и магические предметы",
+    "Мир игры/Организации и группы/Культ Золотого Куба",
+    "Хронология игры",
+    "Мир игры/Расы"
+  ]
+}

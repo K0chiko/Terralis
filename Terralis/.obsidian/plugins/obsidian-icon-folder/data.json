@@ -1,0 +1,89 @@
+{
+  "settings": {
+    "migrated": 4,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "RaBleedingEye",
+      "RaCastleEmblem",
+      "RaDiceFive",
+      "RaCandleFire",
+      "RaCapitol"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "debugMode": false
+  },
+  "Персонажи игроков": {
+    "iconName": "RaHelmet",
+    "iconColor": "#fa0000"
+  },
+  "Персонажи Мастера": {
+    "iconName": "RaDragon",
+    "iconColor": "#17eed4"
+  },
+  "Хронология игры": {
+    "iconName": "RaClockwork",
+    "iconColor": "#ffdd00"
+  },
+  "0_всякое": "BoBxCog",
+  "Мир игры/Организации и группы": {
+    "iconName": "BoBxsFlag",
+    "iconColor": "#fafe06"
+  },
+  "Мир игры/Места": "RaCastleEmblem",
+  "Мир игры/Артефакты и магические предметы": {
+    "iconName": "RaAnkh",
+    "iconColor": "#9200e0"
+  },
+  "Мир игры": "BoBxHive",
+  "Хронология игры/1. Куда, черт возьми, девались все грибы.md": {
+    "iconName": "RaSuperMushroom",
+    "iconColor": "#ecdb22"
+  },
+  "Персонажи Мастера/Златоверх": {
+    "iconName": "RaCapitol",
+    "iconColor": "#fbff00"
+  },
+  "Персонажи Мастера/Индустриарх": {
+    "iconName": "RaCastleEmblem",
+    "iconColor": "#8ec7d2"
+  },
+  "Персонажи Мастера/Златоверх/Сиена Огненная Рука.md": {
+    "iconName": "RaCandleFire",
+    "iconColor": "#cd3a0a"
+  },
+  "Персонажи игроков/0_Суббота": {
+    "iconName": "RaDiceFive",
+    "iconColor": "#ffdd00"
+  },
+  "Мир игры/Места/Златоверх": {
+    "iconName": "RaCapitol",
+    "iconColor": "#fff70a"
+  },
+  "Мир игры/Места/Индустриарх.md": {
+    "iconName": "RaCastleEmblem",
+    "iconColor": "#96d0df"
+  },
+  "Мир игры/Магия.md": {
+    "iconName": "RaBleedingEye",
+    "iconColor": "#ff14e0"
+  }
+}

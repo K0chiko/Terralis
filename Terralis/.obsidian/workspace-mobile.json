@@ -1,0 +1,250 @@
+{
+  "main": {
+    "id": "a0c1cc62f983249b",
+    "type": "split",
+    "children": [
+      {
+        "id": "1bda98c131dd7e1f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38504dfd98fd46b1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "d3f5e4f6a9ab6cd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Персонажи игроков/0_Суббота/Викс Этерхарт.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "60af64588f971232",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Хронология игры/1. Куда, черт возьми, девались все грибы.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "711ee02204311709",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Рынок Десяти Дорог.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9921b7ece3935507",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Персонажи игроков/0_Суббота/Тангент.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c6ca3110001dda87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Персонажи игроков/0_Суббота/Лиз Голдхарт.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "016fba9ed7954198",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Мир игры/Организации и группы/Культ Золотого Куба/Незримые.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "443fef99f116f682",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Хронология игры/1. Куда, черт возьми, девались все грибы.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c80215f62a0324eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Мир игры/Организации и группы/Теневые клинки.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e00d3a22b80dd5b3",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a8dcd84bcf7db698",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "8f14be6b0b66ecb4",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "f9c979399c85567e",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "3cbf26dfa2b56cb9",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "8c08b0968636b63e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "71e8865eede52ae3",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "c84422a6c69a35f3",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "d4e751d856881ba3",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "38504dfd98fd46b1",
+  "lastOpenFiles": [
+    "Мир игры/Организации и группы/Теневые клинки.md",
+    "Хронология игры/1. Куда, черт возьми, девались все грибы.md",
+    "Персонажи игроков/0_Суббота/Лиз Голдхарт.md",
+    "Мир игры/Организации и группы/Культ Золотого Куба/Незримые.md",
+    "Персонажи игроков/0_Суббота/Викс Этерхарт.md",
+    "Персонажи игроков/0_Суббота/Тангент.md",
+    "Рынок Десяти Дорог.md",
+    "Джерон.md",
+    "Черное Касание.md",
+    "Орочий Гриб.md",
+    "Златоверх.md",
+    "Верховный Понтифик.md",
+    "Персонажи/Лиза де Оро.md",
+    "Культ Золотого Куба.md",
+    "Прометеус Индастриз.md",
+    "Места/Индустриарх.md",
+    "Персонажи/Тобиас Железнорук.md",
+    "Персонажи/Гектор Вулкан.md",
+    "Без названия",
+    "Персонажи",
+    "Места",
+    "Без названия.canvas",
+    "Gjhjkj.md"
+  ]
+}
