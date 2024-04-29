@@ -22,12 +22,12 @@
             }
           },
           {
-            "id": "3025919b0aa27a43",
+            "id": "185f857a88bb0529",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Персонажи игроков/0_Суббота/Лиз Голдхарт.md",
+                "file": "Персонажи Мастера/Индустриарх/Таддеус Вольткаст.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Персонажи игроков/0_Суббота/Лиз Голдхарт.md",
+                "file": "Персонажи Мастера/Индустриарх/Таддеус Вольткаст.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Персонажи игроков/0_Суббота/Лиз Голдхарт.md",
+                "file": "Персонажи Мастера/Индустриарх/Таддеус Вольткаст.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Персонажи игроков/0_Суббота/Лиз Голдхарт.md"
+                "file": "Персонажи Мастера/Индустриарх/Таддеус Вольткаст.md"
               }
             }
           }
@@ -161,9 +161,14 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "3025919b0aa27a43",
+  "active": "185f857a88bb0529",
   "lastOpenFiles": [
     "Мир игры/Организации и группы/Культ Золотого Куба.md",
+    "Персонажи игроков/0_Суббота/Лиз Голдхарт.md",
+    "Персонажи игроков/0_Суббота/Тангент.md",
+    "Мир игры/Места/Златоверх/Грозовой Утёс.md",
+    "Мир игры/Места/Златоверх/Академия Магии.md",
+    "Мир игры/Организации и группы/Культ Золотого Куба/Незримые.md",
     "0_всякое/Тангент.jpg",
     "Мир игры/Эксперимент 42.md",
     "Эксперимент 42.md",
@@ -175,7 +180,6 @@
     "0_всякое/Арно.jpg",
     "0_всякое/Карточки.canvas",
     "Мир игры/Места/Златоверх/Рынок Десяти Дорог.md",
-    "Мир игры/Места/Златоверх/Академия Магии.md",
     "Мир игры/Магия.md",
     "Персонажи игроков/0_Суббота/Mr. Tangent.md",
     "textgenerator/templates/dalle/artSprayPainted.md",
@@ -190,10 +194,6 @@
     "textgenerator/templates/dalle/artWarhol.md",
     "textgenerator/templates/dalle/artUkiyoe.md",
     "textgenerator/templates/dalle/getPhoto.md",
-    "textgenerator/templates/dalle/quaMacro.md",
-    "textgenerator/templates/dalle/ligAmbient.md",
-    "textgenerator/templates/dalle/artSalvadorDali.md",
-    "textgenerator/templates/dalle/artPencilSketch.md",
     "textgenerator/templates/dalle",
     "textgenerator/templates/default",
     "textgenerator/templates",
