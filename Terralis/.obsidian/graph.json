@@ -11,7 +11,7 @@
       "query": "tag:#Город  ",
       "color": {
         "a": 1,
-        "rgb": 5431394
+        "rgb": 49687
       }
     },
     {
@@ -46,7 +46,7 @@
       "query": "tag:#игрокЧетверг",
       "color": {
         "a": 1,
-        "rgb": 5419488
+        "rgb": 16737792
       }
     },
     {
@@ -81,6 +81,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 349,
-  "scale": 0.21055179497035745,
-  "close": true
+  "scale": 0.2951900156445022,
+  "close": false
 }

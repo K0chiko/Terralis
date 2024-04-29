@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "BoBxsHand",
+      "BoBxsBot",
       "BoBxsMessageRoundedEdit",
       "BoBxsMessageRoundedX",
-      "RaBleedingEye",
-      "RaCastleEmblem",
-      "RaDiceFive"
+      "RaBleedingEye"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -43,7 +43,6 @@
     "iconName": "RaClockwork",
     "iconColor": "#ffdd00"
   },
-  "0_всякое": "BoBxCog",
   "Мир игры/Организации и группы": {
     "iconName": "BoBxsFlag",
     "iconColor": "#fafe06"
@@ -87,5 +86,18 @@
     "iconColor": "#ff14e0"
   },
   "Персонажи Мастера/Златоверх/Джерон.md": "BoBxsMessageRoundedEdit",
-  "Персонажи Мастера/Индустриарх/Таддеус Вольткаст.md": "BoBxsMessageRoundedEdit"
+  "Персонажи Мастера/Индустриарх/Таддеус Вольткаст.md": "BoBxsMessageRoundedEdit",
+  "Персонажи игроков/1_Четверг": {
+    "iconName": "BoBxsBot",
+    "iconColor": "#fa5700"
+  },
+  "0_Арты": "BoBxCog",
+  "Персонажи Мастера/Индустриарх/Тобиас Железнорук.md": {
+    "iconName": "BoBxsHand",
+    "iconColor": "#ebb800"
+  },
+  "Хронология игры/2. Големы и демоны.md": {
+    "iconName": "BoBxsBot",
+    "iconColor": "#ff7300"
+  }
 }
