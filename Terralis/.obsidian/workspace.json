@@ -4,22 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "4acfe85724135ab3",
+        "id": "9d865841650ea80c",
         "type": "tabs",
         "children": [
           {
-            "id": "365955872626e16f",
+            "id": "2ccafcaf9f69d082",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Мир игры/Организации и группы/Культ Золотого Куба.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "3025919b0aa27a43",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Персонажи Мастера/Златоверх/Сиена Огненная Рука.md",
+                "file": "Персонажи игроков/0_Суббота/Лиз Голдхарт.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "сиенн",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,13 +80,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c26beb0e03539a07",
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Персонажи Мастера/Златоверх/Сиена Огненная Рука.md",
+                "file": "Персонажи игроков/0_Суббота/Лиз Голдхарт.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Персонажи Мастера/Златоверх/Сиена Огненная Рука.md",
+                "file": "Персонажи игроков/0_Суббота/Лиз Голдхарт.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,24 +140,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Персонажи Мастера/Златоверх/Сиена Огненная Рука.md"
+                "file": "Персонажи игроков/0_Суббота/Лиз Голдхарт.md"
               }
-            }
-          },
-          {
-            "id": "cbd8fbd5b55318d8",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_nodes",
-              "state": {}
-            }
-          },
-          {
-            "id": "4fff27c7a6cef0f2",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_style",
-              "state": {}
             }
           }
         ],
@@ -161,57 +158,57 @@
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
-      "juggl:Juggl global graph": false
+      "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "c5bfa6d4656f3780",
+  "active": "3025919b0aa27a43",
   "lastOpenFiles": [
-    "Хронология игры/1. Куда, черт возьми, девались все грибы.md",
-    "Персонажи игроков/0_Суббота/Тангент.md",
-    "Тангент.jpg",
+    "Мир игры/Организации и группы/Культ Золотого Куба.md",
     "0_всякое/Тангент.jpg",
-    "Персонажи игроков/0_Суббота/Лиз Голдхарт.md",
-    "Персонажи Мастера/Златоверх/Сиена Огненная Рука.md",
-    "Лиз.jpg",
-    "Персонажи игроков/0_Суббота/Викс Этерхарт.md",
-    "0_всякое/Лиз.jpg",
+    "Мир игры/Эксперимент 42.md",
+    "Эксперимент 42.md",
+    "Мир игры/Орочий Гриб.md",
+    "Персонажи Мастера/Златоверх/Джерон.md",
+    "0_всякое/Лиз 1.jpg",
+    "0_всякое/Тангент 1.jpg",
+    "Мир игры/Черное Касание.md",
     "0_всякое/Арно.jpg",
+    "0_всякое/Карточки.canvas",
+    "Мир игры/Места/Златоверх/Рынок Десяти Дорог.md",
+    "Мир игры/Места/Златоверх/Академия Магии.md",
+    "Мир игры/Магия.md",
+    "Персонажи игроков/0_Суббота/Mr. Tangent.md",
+    "textgenerator/templates/dalle/artSprayPainted.md",
+    "Мир игры/Организации и группы/Арканум Драйв.md",
+    "textgenerator/templates/dalle/modArtStation.md",
+    "textgenerator/templates/dalle/modDetailed.md",
+    "textgenerator/templates/dalle/modAwardWinning.md",
+    "textgenerator/templates/dalle/artPsychedelic.md",
+    "textgenerator/templates/dalle/artClaymation.md",
+    "textgenerator/templates/dalle/modFanart.md",
+    "textgenerator/templates/dalle/qua200mm.md",
+    "textgenerator/templates/dalle/artWarhol.md",
+    "textgenerator/templates/dalle/artUkiyoe.md",
+    "textgenerator/templates/dalle/getPhoto.md",
+    "textgenerator/templates/dalle/quaMacro.md",
+    "textgenerator/templates/dalle/ligAmbient.md",
+    "textgenerator/templates/dalle/artSalvadorDali.md",
+    "textgenerator/templates/dalle/artPencilSketch.md",
+    "textgenerator/templates/dalle",
+    "textgenerator/templates/default",
+    "textgenerator/templates",
+    "textgenerator",
+    "0_всякое/Лиз.jpg",
     "0_всякое/Арн.jpg",
     "0_всякое/Викс Этерхарт.png",
     "0_всякое/file-2lYpHhGGGJvrqEyowlENOejd.webp",
     "0_всякое/a37789ac293826a61635e28636f15ca8.jpg",
-    "Эксперимент 42.md",
-    "Таддеус Вольткаст.md",
-    "Персонажи игроков/0_Суббота/Арно Кайде Шейц.md",
-    "Мир игры/Места/Маго-Технический Университет г. Индустриарх.md",
-    "Мир игры/Организации и группы/Прометеус Индастриз.md",
-    "Мир игры/Расы/Гном.md",
-    "Персонажи игроков/0_Суббота/Mr. Tangent.md",
-    "Персонажи Мастера/Златоверх/Рекс Железный Кулак.md",
-    "Мир игры/Места/Златоверх/Академия Магии.md",
-    "Мир игры/Магия.md",
-    "Мир игры/Места/Златоверх/Златоверх.md",
-    "Мир игры/Места/Индустриарх.md",
     "Мир игры/Магия и алхимия",
-    "Персонажи игроков/0_Суббота/0_Суббота.md",
     "Мир игры",
-    "Хронология.md",
-    "0_всякое/Карточки.canvas",
-    "Мир игры/Места/Златоверх/Арена.md",
-    "Мир игры/Места/Златоверх/Туманный Порт.md",
-    "Мир игры/Организации и группы/Культ Золотого Куба/Рыцари Куба.md",
-    "Персонажи Мастера/Златоверх/Парень в маске.md",
-    "Мир игры/Расы/Орк.md",
-    "![[Сиенна.md",
     "0_всякое/Сиенна Огненная Рука.jpg",
     "0_всякое",
     "Новая папка",
     "[ДАННЫЕ УДАЛЕНЫ]/Персонажи",
-    "[ДАННЫЕ УДАЛЕНЫ]",
-    "Мир игры/Артефакты и магические предметы",
-    "Мир игры/Организации и группы/Культ Золотого Куба",
-    "Хронология игры",
-    "Мир игры/Расы"
+    "[ДАННЫЕ УДАЛЕНЫ]"
   ]
 }

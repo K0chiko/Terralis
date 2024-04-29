@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "BoBxsMessageRoundedEdit",
+      "BoBxsMessageRoundedX",
       "RaBleedingEye",
       "RaCastleEmblem",
-      "RaDiceFive",
-      "RaCandleFire",
-      "RaCapitol"
+      "RaDiceFive"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -85,5 +85,6 @@
   "Мир игры/Магия.md": {
     "iconName": "RaBleedingEye",
     "iconColor": "#ff14e0"
-  }
+  },
+  "Персонажи Мастера/Златоверх/Джерон.md": "BoBxsMessageRoundedEdit"
 }

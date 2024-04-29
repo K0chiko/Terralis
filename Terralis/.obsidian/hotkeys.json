@@ -17,5 +17,14 @@
       ],
       "key": "B"
     }
+  ],
+  "persistent-graph:save-node-positions": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "S"
+    }
   ]
 }
