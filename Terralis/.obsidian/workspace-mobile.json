@@ -45,12 +45,8 @@
             "id": "711ee02204311709",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Рынок Десяти Дорог.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -112,8 +108,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "75ecb16cf1e2a9e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Мир игры/Организации и группы/ГолемТек.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "27d06ff29d476442",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Мир игры/Места/Индустриарх.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "542cd3c5ae7361c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Персонажи игроков/1_Четверг/Руди.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -179,6 +212,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Персонажи игроков/1_Четверг/Руди.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -195,6 +229,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Персонажи игроков/1_Четверг/Руди.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -205,7 +240,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Персонажи игроков/1_Четверг/Руди.md"
+          }
         }
       }
     ],
@@ -221,11 +258,16 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "38504dfd98fd46b1",
+  "active": "542cd3c5ae7361c3",
   "lastOpenFiles": [
+    "Персонажи игроков/0_Суббота/Лиз Голдхарт.md",
+    "Мир игры/Места/Индустриарх.md",
+    "Мир игры/Организации и группы/ГолемТек.md",
+    "Персонажи Мастера/Индустриарх/Лиза де Оро.md",
+    "Персонажи Мастера/Индустриарх/Тобиас Железнорук.md",
+    "0_Арты/Персонажи/Тобиас Железнорук.jpg",
     "Мир игры/Организации и группы/Теневые клинки.md",
     "Хронология игры/1. Куда, черт возьми, девались все грибы.md",
-    "Персонажи игроков/0_Суббота/Лиз Голдхарт.md",
     "Мир игры/Организации и группы/Культ Золотого Куба/Незримые.md",
     "Персонажи игроков/0_Суббота/Викс Этерхарт.md",
     "Персонажи игроков/0_Суббота/Тангент.md",
