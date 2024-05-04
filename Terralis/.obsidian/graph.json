@@ -69,6 +69,13 @@
         "a": 1,
         "rgb": 8046512
       }
+    },
+    {
+      "query": "tag:#магия  ",
+      "color": {
+        "a": 1,
+        "rgb": 11010171
+      }
     }
   ],
   "collapse-display": false,
@@ -77,10 +84,10 @@
   "nodeSizeMultiplier": 3.26309771309771,
   "lineSizeMultiplier": 5,
   "collapse-forces": false,
-  "centerStrength": 0.225051975051975,
+  "centerStrength": 0.175155925155925,
   "repelStrength": 20,
-  "linkStrength": 0.283264033264033,
+  "linkStrength": 0.624220374220374,
   "linkDistance": 349,
-  "scale": 0.2329707266727223,
-  "close": false
+  "scale": 0.11852662618678513,
+  "close": true
 }
