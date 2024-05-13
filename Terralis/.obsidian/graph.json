@@ -76,6 +76,13 @@
         "a": 1,
         "rgb": 11010171
       }
+    },
+    {
+      "query": "tag:#RIP  ",
+      "color": {
+        "a": 1,
+        "rgb": 8150045
+      }
     }
   ],
   "collapse-display": false,
@@ -88,6 +95,6 @@
   "repelStrength": 20,
   "linkStrength": 0.624220374220374,
   "linkDistance": 349,
-  "scale": 0.16617230284497464,
-  "close": true
+  "scale": 0.16617230284497483,
+  "close": false
 }
