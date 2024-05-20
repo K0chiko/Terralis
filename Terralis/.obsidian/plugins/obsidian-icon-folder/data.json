@@ -87,10 +87,6 @@
   },
   "Персонажи Мастера/Златоверх/Джерон.md": "BoBxsMessageRoundedEdit",
   "Персонажи Мастера/Индустриарх/Таддеус Вольткаст.md": "BoBxsMessageRoundedEdit",
-  "Персонажи игроков/1_Четверг": {
-    "iconName": "BoBxsBot",
-    "iconColor": "#fa5700"
-  },
   "0_Арты": "BoBxCog",
   "Персонажи Мастера/Индустриарх/Тобиас Железнорук.md": {
     "iconName": "BoBxsHand",
@@ -99,5 +95,9 @@
   "Хронология игры/2. Големы и демоны.md": {
     "iconName": "BoBxsBot",
     "iconColor": "#ff7300"
+  },
+  "Персонажи Мастера/1_Четверг": {
+    "iconName": "BoBxsBot",
+    "iconColor": "#fa5700"
   }
 }
