@@ -83,18 +83,32 @@
         "a": 1,
         "rgb": 8150045
       }
+    },
+    {
+      "query": "path:\"Мир игры/Бестиарий\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:\"Мир игры/Всякое\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 1355008
+      }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -2.9,
-  "nodeSizeMultiplier": 3.26309771309771,
+  "nodeSizeMultiplier": 3.22234927234927,
   "lineSizeMultiplier": 5,
   "collapse-forces": false,
   "centerStrength": 0,
   "repelStrength": 20,
-  "linkStrength": 0.72037422037422,
-  "linkDistance": 38,
-  "scale": 0.16617230284497495,
+  "linkStrength": 0.487525987525988,
+  "linkDistance": 318,
+  "scale": 0.04301181556907111,
   "close": false
 }
