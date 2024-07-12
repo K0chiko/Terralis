@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "BoBxMoney",
+      "RaSkull",
+      "RaVial",
       "BoBxsHand",
-      "BoBxsBot",
-      "BoBxsMessageRoundedEdit",
-      "BoBxsMessageRoundedX",
-      "RaBleedingEye"
+      "BoBxsBot"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -92,12 +92,20 @@
     "iconName": "BoBxsHand",
     "iconColor": "#ebb800"
   },
-  "Хронология игры/2. Големы и демоны.md": {
-    "iconName": "BoBxsBot",
-    "iconColor": "#ff7300"
-  },
   "Персонажи Мастера/1_Четверг": {
     "iconName": "BoBxsBot",
     "iconColor": "#fa5700"
+  },
+  "Хронология игры/0. Големы и демоны.md": {
+    "iconName": "BoBxsBot",
+    "iconColor": "#ff7300"
+  },
+  "Хронология игры/2. Дикая Чума.md": {
+    "iconName": "RaSkull",
+    "iconColor": "#c609ec"
+  },
+  "Хронология игры/3. Блеск и нищета Индустриарха.md": {
+    "iconName": "BoBxMoney",
+    "iconColor": "#0dfd95"
   }
 }
